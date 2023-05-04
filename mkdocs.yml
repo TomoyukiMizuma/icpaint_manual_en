@@ -246,6 +246,7 @@ nav:
   - layer mask:             layer_mask.md
   - brush:                  brush.md
   - ruler (brush):          ruler_brush.md
+  - curve brush:            curve_brush.md
   - paint with various shapes (rectangle, circle, lasso, polygon): paint_with_shapes.md
   - transform:              transform.md
   - vector layer:           vector_layer.md
